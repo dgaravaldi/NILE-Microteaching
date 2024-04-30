@@ -1,0 +1,22 @@
+Which header field do you find in the http transfer? Get a screenshot of them!
+
+The response is divided into header and body. Mark them in the screenshot.
+
+Which of the following headers will you find in the request or the reponse:
+host, content-length, Content-type, Server
+
+There is a field for sending information about the used web server (software). Which one?
+
+Perhaps you will find "Date" on both messages. How is it solved if the server and client isn't in the same timezone?
+
+Pick two of the headers which could be interesting for a hacker. Why are they interesting for them?
+
+If a site is not available or not accessible, how will the server tell this to the client?
+
+Are there other cirumstances the server can tell the client this way?
+
+We are talking about server client model. Where do you find it here?
+
+*HTTP is a protocol. Do you know other protocols on ISO/OSI Layer 5-7?
+
+*Have a look for SMTP (sending mails). On Wikipedia you find a message exchange diagram. Do you find some similiaries to HTTP?
