@@ -1,5 +1,9 @@
 # NILE Microteaching
 
+### Remark
+If you use this exercise in real, please exchange the used website...
+
+
 ### Topic: Client/Server communication
 
 ### Kommunikation zwischen Client und Server
