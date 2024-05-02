@@ -14,3 +14,7 @@ Antwort: Über das HTTP-Protokoll (Pull-Modell) bestehend aus Request (Anfrage v
 Response (Antwort vom Server):
 
 https://learning.nile-elt.com/d2l/home
+
+
+### Padlet
+https://drive.google.com/drive/folders/1sclgmS10hwpnICsRLSFjNgleCBoli65m
